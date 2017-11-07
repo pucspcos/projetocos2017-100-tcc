@@ -4,9 +4,9 @@ Você constrola um submarino amarelo que explora o fundo do mar e destroi bases 
 
 # Nome compledo dos integrantes do projeto:
 
-* Victor Kaça
+* Victor Kaça Ziemann
 * Raul Peres Cardoso
-* Rodrigo
+* Rodrigo Dias Mendes
 
 # Imagens do jogo:
 
@@ -25,9 +25,9 @@ Descrição do jogo
 
 # Nome compledo dos integrantes do projeto:
 
-* Victor Kaça
+* Victor Kaça Ziemann
 * Raul Peres Cardoso
-* Rodrigo
+* Rodrigo Dias Mendes
 
 # Imagens do jogo:
 
