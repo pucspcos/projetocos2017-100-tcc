@@ -17,3 +17,25 @@ Você constrola um submarino amarelo que explora o fundo do mar e destroi bases 
 # Link no Itch IO para o download dos executáveis do jogo:
 
 Colocar o link no Itch IO.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+# Sobrevivencia
+
+Descrição do jogo
+
+# Nome compledo dos integrantes do projeto:
+
+* Victor Kaça
+* Raul Peres Cardoso
+* Rodrigo
+
+# Imagens do jogo:
+
+![Cabana](https://raw.githubusercontent.com/pucspcos/projetocos2017-100-tcc/master/imagens%20do%20sobrevivencia/Cabana.jpg)
+![Onça](https://raw.githubusercontent.com/pucspcos/projetocos2017-100-tcc/master/imagens%20do%20sobrevivencia/On%C3%A7a.jpg)
+![Mochila](https://raw.githubusercontent.com/pucspcos/projetocos2017-100-tcc/master/imagens%20do%20sobrevivencia/mochila.jpg)
+![Lanterna](https://raw.githubusercontent.com/pucspcos/projetocos2017-100-tcc/master/imagens%20do%20sobrevivencia/LaternaCegaHomen.jpg)
+
+# Link no Itch IO para o download dos executáveis do jogo:
+
+[Sobrevivencia Itch.io](https://victorkz.itch.io/sobrevivencia)
