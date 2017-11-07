@@ -1,17 +1,16 @@
-# Nome do projeto
+# Yellow Submarine - Against Other Songs
 
-Descreva aqui o que é o projeto e indique o link da Wiki para saber mais sobre o projeto
+Você constrola um submarino amarelo que explora o fundo do mar e destroi bases maleficas que atormentam os peixes com sua musica alta. O jogador tem em sua opção dois tiros, um direcionavel com o mouse e outro dianteiro, os quais ele deve usar contra os submarinos e lança misseis inimigos. Ele não pode ser cercado para não perder o jogo.
 
 # Nome compledo dos integrantes do projeto:
 
-* Nome 1
-* Nome 2
-* Nome 3
-* Nome 4
+* Victor Kaça
+* Raul Peres Cardoso
+* Rodrigo
 
 # Imagens do jogo:
 
-Inserir imagens do jogo.
+![GitHub Logo](/images/logo.png)
 
 # Link no Itch IO para o download dos executáveis do jogo:
 
