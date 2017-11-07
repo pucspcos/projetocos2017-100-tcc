@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 071b11f1d44d5fb4cb767836a18de956
+timeCreated: 1509478743
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: "Canh\xE3o1"
+    100002: "Canh\xE3o2"
+    100004: "Canh\xE3o3"
+    100006: "Canh\xE3o4"
+    100008: "Canh\xE3oHelice"
+    100010: CentroHelice
+    100012: Helice1
+    100014: Helice2
+    100016: Helice3
+    100018: Helice4
+    100020: Janelas
+    100022: //RootNode
+    100024: SuporteTimao
+    100026: Timao
+    100028: Tiro1
+    100030: Tiro2
+    100032: Tiro3
+    100034: Tiro4
+    100036: Torus1
+    100038: Torus2
+    100040: Torus3
+    100042: Torus4
+    400000: "Canh\xE3o1"
+    400002: "Canh\xE3o2"
+    400004: "Canh\xE3o3"
+    400006: "Canh\xE3o4"
+    400008: "Canh\xE3oHelice"
+    400010: CentroHelice
+    400012: Helice1
+    400014: Helice2
+    400016: Helice3
+    400018: Helice4
+    400020: Janelas
+    400022: //RootNode
+    400024: SuporteTimao
+    400026: Timao
+    400028: Tiro1
+    400030: Tiro2
+    400032: Tiro3
+    400034: Tiro4
+    400036: Torus1
+    400038: Torus2
+    400040: Torus3
+    400042: Torus4
+    2300000: "Canh\xE3o1"
+    2300002: "Canh\xE3o2"
+    2300004: "Canh\xE3o3"
+    2300006: "Canh\xE3o4"
+    2300008: "Canh\xE3oHelice"
+    2300010: CentroHelice
+    2300012: Helice1
+    2300014: Helice2
+    2300016: Helice3
+    2300018: Helice4
+    2300020: Janelas
+    2300022: //RootNode
+    2300024: SuporteTimao
+    2300026: Timao
+    2300028: Tiro1
+    2300030: Tiro2
+    2300032: Tiro3
+    2300034: Tiro4
+    2300036: Torus1
+    2300038: Torus2
+    2300040: Torus3
+    2300042: Torus4
+    3300000: "Canh\xE3o1"
+    3300002: "Canh\xE3o2"
+    3300004: "Canh\xE3o3"
+    3300006: "Canh\xE3o4"
+    3300008: "Canh\xE3oHelice"
+    3300010: CentroHelice
+    3300012: Helice1
+    3300014: Helice2
+    3300016: Helice3
+    3300018: Helice4
+    3300020: Janelas
+    3300022: //RootNode
+    3300024: SuporteTimao
+    3300026: Timao
+    3300028: Tiro1
+    3300030: Tiro2
+    3300032: Tiro3
+    3300034: Tiro4
+    3300036: Torus1
+    3300038: Torus2
+    3300040: Torus3
+    3300042: Torus4
+    4300000: Fuzelagem1
+    4300002: "Canh\xE3oHelice"
+    4300004: CentroHelice
+    4300006: Helice4
+    4300008: Helice3
+    4300010: Helice2
+    4300012: Helice1
+    4300014: SuporteTimao
+    4300016: Timao
+    4300018: Janelas
+    4300020: "Canh\xE3o4"
+    4300022: Torus4
+    4300024: Tiro4
+    4300026: "Canh\xE3o3"
+    4300028: Torus3
+    4300030: Tiro3
+    4300032: "Canh\xE3o2"
+    4300034: Torus2
+    4300036: Tiro2
+    4300038: "Canh\xE3o1"
+    4300040: Torus1
+    4300042: Tiro1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

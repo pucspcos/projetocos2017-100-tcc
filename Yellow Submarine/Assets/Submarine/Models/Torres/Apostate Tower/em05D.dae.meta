@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 60720c3e079cfdc499b8730695cda9ae
+timeCreated: 1509844012
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 01_move
+    100002: 02_move
+    100004: 03_move
+    100006: b_01_eyelow
+    100008: b_01_eyelow_nub
+    100010: b_01_eyetop
+    100012: b_01_eyetop_nub
+    100014: b_01_head
+    100016: b_01_head_nub
+    100018: b_01_mouth
+    100020: b_01_mouth_nub
+    100022: b_01_neck
+    100024: b_02_eyelow
+    100026: b_02_eyelow_nub
+    100028: b_02_eyetop
+    100030: b_02_eyetop_nub
+    100032: b_02_head
+    100034: b_02_head_nub
+    100036: b_02_mouth
+    100038: b_02_mouth_nub
+    100040: b_02_neck
+    100042: B_03_head
+    100044: B_03_head_nub
+    100046: B_03_neck
+    100048: //RootNode
+    100050: em05D
+    100052: em05D_skeleton
+    100054: h_center
+    100056: h_eff00
+    100058: h_eff01
+    100060: h_eff02
+    100062: h_eff03
+    100064: h_eff04
+    100066: h_eff05
+    100068: h_head
+    100070: h_oneshot
+    100072: head01
+    100074: mesh0
+    100076: mesh1
+    100078: mesh2
+    100080: move_root
+    100082: root
+    100084: water01
+    400000: 01_move
+    400002: 02_move
+    400004: 03_move
+    400006: b_01_eyelow
+    400008: b_01_eyelow_nub
+    400010: b_01_eyetop
+    400012: b_01_eyetop_nub
+    400014: b_01_head
+    400016: b_01_head_nub
+    400018: b_01_mouth
+    400020: b_01_mouth_nub
+    400022: b_01_neck
+    400024: b_02_eyelow
+    400026: b_02_eyelow_nub
+    400028: b_02_eyetop
+    400030: b_02_eyetop_nub
+    400032: b_02_head
+    400034: b_02_head_nub
+    400036: b_02_mouth
+    400038: b_02_mouth_nub
+    400040: b_02_neck
+    400042: B_03_head
+    400044: B_03_head_nub
+    400046: B_03_neck
+    400048: //RootNode
+    400050: em05D
+    400052: em05D_skeleton
+    400054: h_center
+    400056: h_eff00
+    400058: h_eff01
+    400060: h_eff02
+    400062: h_eff03
+    400064: h_eff04
+    400066: h_eff05
+    400068: h_head
+    400070: h_oneshot
+    400072: head01
+    400074: mesh0
+    400076: mesh1
+    400078: mesh2
+    400080: move_root
+    400082: root
+    400084: water01
+    4300000: em05D
+    9500000: //RootNode
+    13700000: em05D
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
