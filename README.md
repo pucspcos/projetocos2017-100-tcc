@@ -10,7 +10,9 @@ Você constrola um submarino amarelo que explora o fundo do mar e destroi bases 
 
 # Imagens do jogo:
 
-![GitHub Logo](/images/logo.png)
+![Submarino Amarelo](https://raw.githubusercontent.com/pucspcos/projetocos2017-100-tcc/master/Imagens%20YS/YS01.png)
+![Inimigos](https://raw.githubusercontent.com/pucspcos/projetocos2017-100-tcc/master/Imagens%20YS/YS02.png)
+![Explosao](https://raw.githubusercontent.com/pucspcos/projetocos2017-100-tcc/master/Imagens%20YS/YS03.png)
 
 # Link no Itch IO para o download dos executáveis do jogo:
 
