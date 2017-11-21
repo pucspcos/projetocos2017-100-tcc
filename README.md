@@ -16,7 +16,7 @@ Você constrola um submarino amarelo que explora o fundo do mar e destroi bases 
 
 # Link no Itch IO para o download dos executáveis do jogo:
 
-[Yellow Submarine Itch.io ](https://victorkz.itch.io/yellow-submarine)
+[Yellow Submarine Itch.io ](https://kniksis.itch.io/yellow-)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 # Sobrevivencia
